@@ -1,0 +1,14 @@
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\obj\Debug\net8.0\MyExEPTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\obj\Debug\net8.0\MyExEPTION.AssemblyInfoInputs.cache
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\obj\Debug\net8.0\MyExEPTION.AssemblyInfo.cs
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\obj\Debug\net8.0\MyExEPTION.csproj.CoreCompileInputs.cache
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\bin\Debug\net8.0\MyExEPTION.exe
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\bin\Debug\net8.0\MyExEPTION.deps.json
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\bin\Debug\net8.0\MyExEPTION.runtimeconfig.json
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\bin\Debug\net8.0\MyExEPTION.dll
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\bin\Debug\net8.0\MyExEPTION.pdb
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\obj\Debug\net8.0\MyExEPTION.dll
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\obj\Debug\net8.0\refint\MyExEPTION.dll
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\obj\Debug\net8.0\MyExEPTION.pdb
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\obj\Debug\net8.0\MyExEPTION.genruntimeconfig.cache
+C:\Users\TechEvo Computers\source\repos\MyExEPTION\MyExEPTION\obj\Debug\net8.0\ref\MyExEPTION.dll
